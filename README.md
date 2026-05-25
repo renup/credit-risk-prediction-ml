@@ -113,7 +113,8 @@ The project includes:
 Add screenshot here:
 
 ```md
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap]<img width="2063" height="1183" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/e2efaf59-3b67-4a1b-85ad-a5c3fa75d4a8" />
+
 ```
 
 ---
@@ -121,7 +122,8 @@ Add screenshot here:
 ## 🧩 Confusion Matrix
 
 ```md
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix]<img width="2233" height="635" alt="model_evaluation_confusion_matrices" src="https://github.com/user-attachments/assets/bbd7ae0f-7d09-4bd1-9170-dfc1a6d573f9" />
+
 ```
 
 ---
@@ -129,7 +131,8 @@ Add screenshot here:
 ## 📊 Feature Distribution
 
 ```md
-![Feature Distribution](images/feature_distribution.png)
+![Feature Distribution]<img width="1779" height="1535" alt="feature_distributions" src="https://github.com/user-attachments/assets/85ef8f62-a066-4343-8556-2231429bbd5d" />
+
 ```
 
 ---
@@ -137,7 +140,8 @@ Add screenshot here:
 ## 📉 Model Comparison
 
 ```md
-![Model Comparison](images/model_comparison.png)
+![Model Comparison]<img width="1484" height="883" alt="model_evaluation_metrics" src="https://github.com/user-attachments/assets/dd4a590f-084b-4d26-ae26-82e6d2680c6b" />
+
 ```
 
 ---
