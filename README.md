@@ -113,7 +113,7 @@ The project includes:
 Add screenshot here:
 
 ```md
-![Heatmap]<img width="2063" height="1183" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/e2efaf59-3b67-4a1b-85ad-a5c3fa75d4a8" />
+<img width="2063" height="1183" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/e2efaf59-3b67-4a1b-85ad-a5c3fa75d4a8" />
 
 ```
 
@@ -122,7 +122,7 @@ Add screenshot here:
 ## 🧩 Confusion Matrix
 
 ```md
-![Confusion Matrix]<img width="2233" height="635" alt="model_evaluation_confusion_matrices" src="https://github.com/user-attachments/assets/bbd7ae0f-7d09-4bd1-9170-dfc1a6d573f9" />
+<img width="2233" height="635" alt="model_evaluation_confusion_matrices" src="https://github.com/user-attachments/assets/bbd7ae0f-7d09-4bd1-9170-dfc1a6d573f9" />
 
 ```
 
