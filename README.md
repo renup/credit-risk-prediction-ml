@@ -114,30 +114,21 @@ The project includes:
 
 ---
 
-## 🧩 Confusion Matrix
-
-```md
-<img width="2233" height="635" alt="model_evaluation_confusion_matrices" src="https://github.com/user-attachments/assets/bbd7ae0f-7d09-4bd1-9170-dfc1a6d573f9" />
-
-```
-
----
-
 ## 📊 Feature Distribution
 
-```md
-![Feature Distribution]<img width="1779" height="1535" alt="feature_distributions" src="https://github.com/user-attachments/assets/85ef8f62-a066-4343-8556-2231429bbd5d" />
-
-```
+![Feature Distribution](https://github.com/renup/credit-risk-prediction-ml/blob/main/images/feature_distribution.png)
 
 ---
 
-## 📉 Model Comparison
+## 🧩 Confusion Matrix
 
-```md
-![Model Comparison]<img width="1484" height="883" alt="model_evaluation_metrics" src="https://github.com/user-attachments/assets/dd4a590f-084b-4d26-ae26-82e6d2680c6b" />
+![Confusion Matrix](https://github.com/renup/credit-risk-prediction-ml/blob/main/images/model_evaluation_confusion_matrices.png)
 
-```
+---
+
+## 📉 Model Evaluation Comparison
+
+![Model Evaluation Comparison](https://github.com/renup/credit-risk-prediction-ml/blob/main/images/model_evaluation_metrics.png)
 
 ---
 
