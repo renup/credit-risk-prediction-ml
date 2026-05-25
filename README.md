@@ -110,12 +110,7 @@ The project includes:
 
 ## 📈 Correlation Heatmap
 
-Add screenshot here:
-
-```md
-<img width="2063" height="1183" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/e2efaf59-3b67-4a1b-85ad-a5c3fa75d4a8" />
-
-```
+![Correlation Heatmap](https://github.com/user-attachments/assets/e2efaf59-3b67-4a1b-85ad-a5c3fa75d4a8)
 
 ---
 
